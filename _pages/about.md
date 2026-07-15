@@ -7,10 +7,7 @@ subtitle: Researcher at Korea Electronics Technology Institute (KETI)
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true
-  more_info: >
-    <p>AI Systems & Processing-in-Memory</p>
-    <p>Seoul, Republic of Korea</p>
+  image_circular: false
 
 selected_papers: true
 social: true

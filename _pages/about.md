@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher at Korea Electronics Technology Institute (KETI)
 
 profile:
   align: right

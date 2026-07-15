@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 2
-description: Curriculum Vitae of Junghyeok Lee.
+description: Curriculum Vitae of Chaelyn Lee.
 ---
 
 <style>
